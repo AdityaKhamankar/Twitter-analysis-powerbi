@@ -16,9 +16,10 @@ The analysis is being developed using Power BI, with the project gradually expan
 - Missing value and error handling
 - Creation of helper fields for analysis
 - Replies, Retweets & Likes comparison for June–August 2020
+- Task 1: Tweet Interaction Breakdown by Category
+- Task 4: Replies, Retweets & Likes Comparison
+- Task 5: Monthly Engagement Rate Trend
 
 ## Project Status
-
 🚧 Work in Progress
-
 More analytical features and dashboard visualizations will be added as the project develops.
