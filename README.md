@@ -23,3 +23,17 @@ The analysis is being developed using Power BI, with the project gradually expan
 ## Project Status
 🚧 Work in Progress
 More analytical features and dashboard visualizations will be added as the project develops.
+
+## Dashboard Screenshots
+
+### Task 1 – Tweet Interaction Breakdown by Category
+
+![Task 1](Screenshots/Task%201.png)
+
+### Task 4 – Replies, Retweets & Likes Comparison
+
+![Task 4](Screenshots/Task%204.png)
+
+### Task 5 – Monthly Engagement Rate Trend
+
+![Task 5](Screenshots/Task%205.png)
