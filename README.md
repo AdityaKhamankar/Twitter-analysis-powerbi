@@ -1,39 +1,49 @@
-## Twitter Analysis Dashboard
+Twitter Analytics Dashboard:-
 
-## Project Overview-
+Project Overview-
+-This project presents an interactive Power BI dashboard that analyzes Twitter engagement using multiple performance metrics such as likes, retweets, replies, impressions, media interactions, and engagement rate. The dashboard combines Power Query for data preparation and DAX for calculated measures to generate meaningful insights through interactive visualizations.
 
-This project focuses on analyzing Twitter data to understand tweet performance, user interactions, and engagement patterns.
-The analysis is being developed using Power BI, with the project gradually expanded through additional analytics tasks, visualizations, and dashboard features.
+Objectives-
+-Analyze tweet engagement performance.
+-Compare engagement across different tweet categories.
+-Identify high-performing tweets.
+-Analyze media interactions by day of the week.
+-Track monthly engagement trends.
+-Evaluate the impact of app opens on engagement rate.
 
-## Tools Used
-- Power BI
-- Power Query
-- Microsoft Excel
+Tools Used-
+-Microsoft Power BI
+-Power Query
+-DAX
+-Microsoft Excel / CSV
 
-## Work Completed
-- Data cleaning and preprocessing
-- Data type validation
-- Missing value and error handling
-- Creation of helper fields for analysis
-- Replies, Retweets & Likes comparison for June–August 2020
-- Task 1: Tweet Interaction Breakdown by Category
-- Task 4: Replies, Retweets & Likes Comparison
-- Task 5: Monthly Engagement Rate Trend
+Dashboard Features-
+-Tweet Interaction Breakdown by Category
+-Engagement Rate Comparison
+-Media Interaction Analysis
+-Monthly Engagement Rate Trend
+-Top 10 Tweets by Total Engagement
+-Interactive Filters
+-Time-based Visual Visibility using DAX
 
-## Project Status
-🚧 Work in Progress
-More analytical features and dashboard visualizations will be added as the project develops.
+DAX Measures-
+-Total Engagement
+-Show Visual Task 1
+-Show Visual Task 2
+-Show Visual Task 3
+-Engagement Rate Measures
+-Power Query Transformations
+-Date Formatting
+-Day Name
+-Month Name
+-Quarter
+-Character Count
+-Word Count
+-Hour Extraction
 
-## Dashboard Screenshots
-
-### Task 1 – Tweet Interaction Breakdown by Category
-
-![Task 1](Screenshots/Task%201.png)
-
-### Task 4 – Replies, Retweets & Likes Comparison
-
-![Task 4](Screenshots/Task%204.png)
-
-### Task 5 – Monthly Engagement Rate Trend
-
-![Task 5](Screenshots/Task%205.png)
+Key Insights-
+-Tweet engagement varies significantly across tweet categories.
+-Media content contributes to higher interaction on specific days.
+-High-engagement tweets are driven primarily by likes and retweets.
+-Monthly engagement trends highlight variations throughout the year.
+App opens show measurable differences in engagement rates.
