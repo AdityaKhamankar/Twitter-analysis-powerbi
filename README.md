@@ -50,7 +50,7 @@ This project focuses on analyzing Twitter engagement data to identify trends, co
 
 ### Task 1 – Tweet Interaction Breakdown by Category
 
-![Task 1](Images/Task 1.png)
+![Task 1](Images/Task1.png)
 
 ---
 
