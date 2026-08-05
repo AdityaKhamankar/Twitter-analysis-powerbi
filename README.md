@@ -50,37 +50,27 @@ This project focuses on analyzing Twitter engagement data to identify trends, co
 
 ### Task 1 – Tweet Interaction Breakdown by Category
 
-![Task 1](Images/Task1.png)
+![Task 1](Images/Task%201.png)
 
----
+### Task 2 – Engagement Rate Comparison
 
-### Task 2 – Engagement Rate Comparison: App Opens vs No App Opens
-
-![Task 2](Images/Task 2.png)
-
----
+![Task 2](Images/Task%202.png)
 
 ### Task 3 – Media Views and Media Engagements by Day of Week (Q4)
 
-![Task 3](Images/Task 3.png)
-
----
+![Task 3](Images/Task%203.png)
 
 ### Task 4 – Replies, Retweets, and Likes Comparison by Tweet Category
 
-![Task 4](Images/Task 4.png)
-
----
+![Task 4](Images/Task%204.png)
 
 ### Task 5 – Monthly Average Engagement Rate Trend
 
-![Task 5](Images/Task 5.png)
-
----
+![Task 5](Images/Task%205.png)
 
 ### Task 6 – Top 10 Tweets by Total Engagement
 
-![Task 6](Images/Task 6.png)
+![Task 6](Images/Task%206.png)
 
 The dataset was transformed using **Power Query**, including:
 
