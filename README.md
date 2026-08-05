@@ -72,6 +72,25 @@ This project focuses on analyzing Twitter engagement data to identify trends, co
 
 ![Task 6](Images/Task%206.png)
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Power Query
+- DAX
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
+
+## Project Outcomes
+
+- Identified high-performing tweets
+- Compared engagement across tweet categories
+- Analyzed media interaction trends
+- Evaluated engagement rate patterns
+- Built interactive Power BI dashboards.
+- 
+
 The dataset was transformed using **Power Query**, including:
 
 - Date formatting
